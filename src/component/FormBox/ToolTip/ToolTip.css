@@ -1,0 +1,8 @@
+.ToolTip {
+  border: 5px solid red;
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin: 50px;
+  
+}

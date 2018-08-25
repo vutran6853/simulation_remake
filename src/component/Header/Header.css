@@ -1,0 +1,16 @@
+.header {
+  border: 5px solid red;
+  height: 100px;
+  padding: 10px;
+  text-align: left;
+
+}
+
+.header-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.header_h3 {
+  margin: 0px;
+}
